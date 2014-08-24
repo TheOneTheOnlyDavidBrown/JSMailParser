@@ -1,6 +1,4 @@
 ;$(function(){
-  var mailParser = MailParser;
-
   MailParser.init({
     outputSelector: '#parsed-output'
   });
